@@ -1,5 +1,6 @@
 body {
     background-color:#000;
+    font-family: var(--font-dm-sans);
 }
 h1 {
     color: #fff;
@@ -43,7 +44,6 @@ width: 80px;
     text-decoration: none;
     font-weight: 600;
     font-size: 14px;
-    font-family: "DM Sans", sans-serif;
 }
 .library {
     background-color: #121212;
@@ -69,7 +69,6 @@ width: 80px;
     border: 0px;
     font-size: 14px;
     font-weight: 700;
-    font-family: "DM Sans", sans-serif;
     text-align: center;
     text-decoration: none;
     text-transform: none;
@@ -104,7 +103,6 @@ width: 80px;
 .section-playlist_content .text{
 padding-bottom: 14px;
 color: #fff;
-font-family: "DM Sans", sans-serif;
 }
 .section-playlist_content .title {
     font-weight: 700;
@@ -121,7 +119,6 @@ font-family: "DM Sans", sans-serif;
     border-radius: 20px;
     font-size: 12px;
     font-weight: 700;
-    font-family: "DM Sans", sans-serif;
     text-decoration: none;
     text-transform: none;
     padding: 10px;
